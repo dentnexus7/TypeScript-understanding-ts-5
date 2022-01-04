@@ -2,7 +2,7 @@ This repository exemplifies the TypeScript Advanced Types through the "Understan
 
 This includes:
     - Intersection Types
-    - Type Guards
+    - More on Type Guards
     - Discriminated Unions
     - Type Casting
     - Index Properties
